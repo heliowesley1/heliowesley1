@@ -81,7 +81,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 
 ###  Estatísticas 📊
 
-<p>
+<p align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
