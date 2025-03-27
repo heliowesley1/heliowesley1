@@ -82,18 +82,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 ###  Estatísticas 📊
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    style="width: 300px;" 
-    src="https://github-readme-stats.vercel.app/api?username=heliowesley1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       alt="GitHub Stats" 
       height="200"
+      style="width: 300px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliowesley1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
